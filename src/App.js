@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
+import './App.css'
 import React from 'react';
 import AddExpenseForm from './components/AddExpenseForm';
 import Budget from './components/Budget';
